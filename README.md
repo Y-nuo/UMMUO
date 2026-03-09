@@ -1,2 +1,3 @@
-# UMMUO
-First Repository
+# 我的第一个 GitHub 仓库
+作者：Y-nuo
+日期：2026-03-09
